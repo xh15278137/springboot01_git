@@ -14,5 +14,5 @@ import lombok.extern.slf4j.Slf4j;
 public class student {
 
     private  String name;
-    private  String password2;
+    private  String password;
 }
